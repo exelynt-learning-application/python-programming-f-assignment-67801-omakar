@@ -1,0 +1,40 @@
+PYTHON ENVIRONMENT SETUP
+
+1. Download and Install Python
+- Downloaded the latest Python version from https://www.python.org
+- Installed Python successfully.
+
+2. Verify Installation
+Opened terminal and executed:
+
+python --version
+
+Output:
+Python 3.x.x
+
+3. Install IDE
+- Installed Visual Studio Code (VS Code).
+- Installed Python extension in VS Code.
+
+4. Configure Python Interpreter
+- Opened VS Code.
+- Pressed Ctrl + Shift + P.
+- Selected "Python: Select Interpreter".
+- Chose the installed Python version.
+
+5. Run Python Command
+
+Command:
+
+python
+
+Python Code:
+
+print("Hello, Python!")
+
+Output:
+
+Hello, Python!
+
+Conclusion:
+Python was installed successfully, the IDE was configured correctly, and Python programs ran succ
