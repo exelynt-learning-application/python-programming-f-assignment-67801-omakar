@@ -1,0 +1,51 @@
+INTRODUCTION TO PYTHON & APPLICATIONS
+
+1. What is Python?
+
+Python is a high-level and easy-to-learn programming language. It was created by Guido van Rossum and released in 1991. Python is popular because of its simple syntax and readability.
+
+2. Key Features of Python
+
+a) Easy to Learn and Read
+Python has simple syntax that is easy to understand.
+
+Example:
+print("Hello, World!")
+
+b) Interpreted Language
+Python executes code line by line, making debugging easier.
+
+c) Object-Oriented
+Python supports classes and objects for building applications.
+
+d) Cross-Platform
+Python programs can run on Windows, macOS, and Linux.
+
+e) Large Library Support
+Python provides many libraries for web development, data science, and machine learning.
+
+3. Real-World Applications of Python
+
+- Web Development
+- Data Science and Analytics
+- Artificial Intelligence (AI)
+- Machine Learning
+- Automation and Scripting
+- Game Development
+- Desktop Applications
+
+4. Python Use Cases Diagram
+
+Python
+|
+|-- Web Development
+|-- Data Science
+|-- Machine Learning
+|-- Artificial Intelligence
+|-- Automation
+|-- Game Development
+|-- Desktop Applications
+
+5. Conclusion
+
+Python is a powerful and easy-to-use programming language. It is widely used in web development,
